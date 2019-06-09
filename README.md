@@ -1,2 +1,21 @@
-# Tribute-page
-This is a tribute page I created using HTML5 and CSS
+## Table of Contents
+1. [About the Project](#about-the-project)
+1. [Project Status](#project-status)
+1. [Getting Started](#getting-started)
+1. [Contacts](reacheToMe)
+
+# About the Project
+This project covers a simple tribute page
+
+## Project Status
+The project is almost complete
+Contributions are always welcome! Looking forward to any issues you want to raise
+
+# Getting Started
+This project doesn't need any dependencies at all. 
+You can run clone, fork, download and run on any editor of your choice. Modify it to suit your needs
+
+This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen https://codepen.io/pen/. Sign up for a free account and practice as much as you want
+
+# Contact
+If you run into any issues, please reach me at msugal@hotmail.com or https://twitter.com/MuduSugal
