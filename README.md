@@ -7,7 +7,7 @@
 # About the Project
 This project covers a simple tribute page
 
-## Project Status
+# Project Status
 The project is almost complete
 Contributions are always welcome! Looking forward to any issues you want to raise
 
