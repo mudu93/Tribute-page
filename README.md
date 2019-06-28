@@ -5,17 +5,17 @@
 1. [Contacts](reacheToMe)
 
 # About the Project
-This project covers a simple tribute page
+This project covers a simple tribute page using pure html & css
 
 # Project Status
-The project is almost complete
+The project is almost complete.<br>
 Contributions are always welcome! Looking forward to any issues you want to raise
 
 # Getting Started
 This project doesn't need any dependencies at all. 
 You can run clone, fork, download and run on any editor of your choice. Modify it to suit your needs
 
-This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen https://codepen.io/pen/. Sign up for a free account and practice as much as you want
+This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen https://codepen.io/pen/. <br>Sign up for a free account and practice as much as you want
 
 # Contact
 If you run into any issues, please reach me at msugal@hotmail.com or https://twitter.com/MuduSugal
