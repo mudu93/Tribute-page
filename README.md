@@ -15,7 +15,7 @@ Contributions are always welcome! Looking forward to any issues you want to rais
 This project doesn't need any dependencies at the moment. 
 You can run clone, fork, download and run on any editor of your choice. Modify it to suit as per your needs
 
-This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen https://codepen.io/pen/. <br> You can sign up for a free account and practice as much as you want
+This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen [codepen](https://codepen.io/pen/). <br> You can sign up for a free account and practice as much as you want
 
 # Contact
 If you run into any issues, please reach me at msugal@hotmail.com or [twitter](https://twitter.com/MuduSugal)
