@@ -18,4 +18,4 @@ You can run clone, fork, download and run on any editor of your choice. Modify i
 This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen https://codepen.io/pen/. <br> You can sign up for a free account and practice as much as you want
 
 # Contact
-If you run into any issues, please reach me at msugal@hotmail.com or https://twitter.com/MuduSugal
+If you run into any issues, please reach me at msugal@hotmail.com or [twitter](https://twitter.com/MuduSugal)
