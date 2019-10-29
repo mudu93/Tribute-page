@@ -13,7 +13,7 @@ Contributions are always welcome! Looking forward to any issues you want to rais
 
 # Getting Started
 This project doesn't need any dependencies at the moment. 
-You can run clone, fork, download and run on any editor of your choice. Modify it to suit as per your needs
+You can clone, fork, download and run on any editor of your choice. Modify it to suit as per your needs.
 
 This proejct was completed as part of fun challenges at freeCodeCamp.org so you can easily run the code at this pen [codepen](https://codepen.io/pen/). <br> You can sign up for a free account and practice as much as you want
 
